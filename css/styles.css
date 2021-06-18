@@ -79,9 +79,8 @@ body {
   min-width: 290px;
 }
 
-#navbar > header {
+#navbar {
   color: #000;
-  font-size: 1.8em;
   margin: 10px;
   text-align: center;
 }
@@ -120,7 +119,6 @@ body {
 
 header {
   color: #000;
-  font-size: 1.8em;
   line-height: 1.5em;
 }
 
